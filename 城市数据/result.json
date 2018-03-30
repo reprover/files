@@ -13,13 +13,13 @@
             "title": "东城区",
             "ad_code": "110101",
             "city_code": "010",
-            "old_code": "101010100"
+            "old_code": "101011600"
           },
           {
             "title": "西城区",
             "ad_code": "110102",
             "city_code": "010",
-            "old_code": "101010100"
+            "old_code": "101011700"
           },
           {
             "title": "朝阳区",
@@ -125,25 +125,25 @@
             "title": "和平区",
             "ad_code": "120101",
             "city_code": "022",
-            "old_code": "101030100"
+            "old_code": "101030800"
           },
           {
             "title": "河东区",
             "ad_code": "120102",
             "city_code": "022",
-            "old_code": "101030100"
+            "old_code": "101031200"
           },
           {
             "title": "河西区",
             "ad_code": "120103",
             "city_code": "022",
-            "old_code": "101030100"
+            "old_code": "101031300"
           },
           {
             "title": "南开区",
             "ad_code": "120104",
             "city_code": "022",
-            "old_code": "101030100"
+            "old_code": "101031500"
           },
           {
             "title": "河北区",
@@ -155,7 +155,7 @@
             "title": "红桥区",
             "ad_code": "120106",
             "city_code": "022",
-            "old_code": "101030100"
+            "old_code": "101031700"
           },
           {
             "title": "东丽区",
